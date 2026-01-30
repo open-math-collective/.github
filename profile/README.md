@@ -11,7 +11,7 @@ We are a non-profit, engineering-focused initiative dedicated to building free, 
         <a href="https://github.com/wolfie-university/maturator"><strong>Maturator</strong></a>
       </div>
       <br />
-      The user-facing web application. Exam simulator and training platform featuring an interactive math input system, allowing users to train their math skills for the final exam.
+      The user-facing web application. Exam simulator and training platform featuring an interactive math input system, allowing users to train their math skills.
     </td>
     <td width="50%">
       <div align="center">
