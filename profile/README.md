@@ -15,7 +15,7 @@ We are a non-profit, engineering-focused initiative dedicated to building free, 
     </td>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/wolfie-university/matura-engine"><strong>Math Engine API</strong></a>
+        <a href="https://github.com/wolfie-university/matura-engine"><strong>Matura Engine API</strong></a>
       </div>
       <br />
       The brain behind the operation. REST API that procedurally generates math problems, LaTeX formulas, step-by-step solutions, and visualizations.
